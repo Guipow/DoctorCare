@@ -546,6 +546,8 @@ footer .social-links {
         display: none;
     }
 
+    /* reset */
+
     nav#navigation .menu {
         display: flex;
         align-items: center;
